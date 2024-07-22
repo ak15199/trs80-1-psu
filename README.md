@@ -17,6 +17,8 @@ If you would to use a different case and install an external fuse caddy, then th
 
 The lid of the case is designed to accept four 5.5 dia x 6mm long M4 threaded inserts. I used four M4 x 8mm pan head machine screws to retain the base.
 
+Merge the TRS and Lid STLs if you have a dual extruder system, or don't load the TRS file if you prefer a recessed look. The lid will need to be rotated 180 degrees to avoid supports.
+
 I salvaged the old 2-pin power cable from some old equipment. It was sufficiently thick and inflexible that a cable retainer wasn't needed. If you're not sure, then use a zip tie to bind the cable to the corresponding retaining hole on the PCB.
 
 ![product pic 1](https://github.com/ak15199/trs80-1-psu/blob/main/.img/IMG_0160.png?raw=true)
